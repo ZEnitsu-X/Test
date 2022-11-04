@@ -2,6 +2,10 @@ body{
 
     font-family: 'DM Sans';
 }
+#me{
+  font-size: 50px;
+  background-color: #e7e7e7; color: black;
+}
 
 .pagination {
   position: absolute !important;
